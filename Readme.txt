@@ -34,7 +34,7 @@ Sahi.prototype.getSessionIds = function(title){
 
 ========================================================
 
-- Added the following content in <ServiceMax>/js/sfmconsole-largemodern-index.html
+- Added the following content on TOP in <ServiceMax>/js/index.html
 ========================================================
 
 <!--SAHI_INJECT_START-->
